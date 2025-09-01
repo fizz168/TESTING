@@ -10,4 +10,4 @@ function createcar(brand, model, year){
 }
 const mycar = createcar("Mclaren", "Senna", "2008");
 console.log(mycar.getInfo());
-
+    
